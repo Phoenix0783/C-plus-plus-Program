@@ -1,5 +1,9 @@
 # **C++ Programs**
-*All the programs written here are take from [GeeksForGeeks](https://www.geeksforgeeks.org/cpp/cpp-programming-examples/)*
+*All the programs written here are take from [GeeksForGeeks 🔗](https://www.geeksforgeeks.org/cpp/cpp-programming-examples/)*
+
+![Static Badge](https://img.shields.io/badge/C%2B%2B-blue) 
+![Static Badge](https://img.shields.io/badge/GeekForGeeks-green)
+
 
 Hey, If you are reading this readme then you probably looking for some C++ programs.
 
