@@ -5,6 +5,12 @@ using namespace std;
 
 int main(){
     string userInputString;
+    string singleWordInput;
+
+    cout<<"This take a single line input ";
+    cin>>singleWordInput;
+    cout<<"\n";
+    cout<<singleWordInput;
 
     cout<<"Enter your input below to display \n";
     getline(cin,userInputString);
